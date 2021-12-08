@@ -12,8 +12,7 @@
 <h3>🚀 Some things you should know 👇</h3>
 <ul>
 <li>👨‍💻 I'm currently a <em>Data Science Student</em> at <strong>North Eastern University</strong>.</li>
-<li>☁  Interned as <em>IT Intern</em> at <strong>Synopsys</strong> for couple of months.</li>
-<li>☁  Worked as <em>Associate Engineer</em> at <strong>L&T technology services</strong> for couple of months.</li>
+<li>☁  Interned as <em>Associate Engineer</em> at <strong>L&T technology services</strong> for couple of months.</li>
 <li>👨‍🎓 Life - long learner. I share everything I learnt because I believe sharing is best method to increase our expertise.</li>
 </ul>
 <hr>
