@@ -11,7 +11,7 @@
 <hr>
 <h3>🚀 Some things you should know 👇</h3>
 <ul>
-<li>👨‍💻 I'm currently a <em>Data Science Student</em> at <strong>North Eastern University</strong>.</li>
+<li>👨‍💻 I'm currently a <em> Masters in Data Science Student</em> at <strong>North Eastern University</strong>.</li>
 <li>☁  Interned as <em>Associate Engineer</em> at <strong>L&T technology services</strong> for couple of months.</li>
 <li>👨‍🎓 Life - long learner. I share everything I learnt because I believe sharing is best method to increase our expertise.</li>
 </ul>
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+    <img src="https://img.shields.io/badge/Probability and Statistics-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
 <br>
@@ -32,11 +32,11 @@
 
 <h3>🦄 While I am not doing Data Science 😉</h3>
 <ul>
-    <li> I am a trained classical singer, dancer,and artist</li>
-    <li>Watch some series on Netflix 🍿</li>
-    <li>Cook an amazing dish 👨‍🍳(Thanks to WFH 😋)</li>
-    <li>Play Badminton 🏸</li>
-    <li> Go for a walk 🚶‍♂️</li>
+    <li> I enjoy singing, dancing and sketching as I am trained classical singer and dancer</li>
+    <li> Watch some series on Netflix 🍿</li>
+    <li> Cook an amazing dish 👨‍🍳(Thanks to WFH 😋)</li>
+    <li> Love to engage with people and am always enthusiastic to have a healthy conversation and learn new things.</li>
+    <li> Read novels, watch sunsets, and spend time with my family and friends.</li>
 </ul>
 <hr>
 <h3>How to reach me ✨</h3>
