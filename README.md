@@ -6,7 +6,7 @@
 
 <h3 align="center"><em>Data Science wisdom comes only through Experimentation</em></h3>
 
-<p>This is what I have learned over the past two years. I am an innovative person by nature and a Data Scientist  by passion. I am currently a Master's in Data Science student at the North Eastern University & a tech enthusiast who loves working with data and solve problems using Machine Learning and Data Science. </p>
+<p>This is what I have learned over the past two years. I am an innovative person by nature and a Data Scientist  by passion. I am currently a Master's in Data Science student at the Northeastern University & a tech enthusiast who loves working with data and solve problems using Machine Learning and Data Science. </p>
 
 <hr>
 <h3>🚀 Some things you should know 👇</h3>
